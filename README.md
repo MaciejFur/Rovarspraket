@@ -1,2 +1,2 @@
 # Rovarspraket
-Challenge from reddit dailyprogrammer
+Challenge from reddit dailyprogrammer.
